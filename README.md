@@ -35,6 +35,8 @@ Topic | Neg Round Win % | p-value | Neg Ballot Win % | p-value
 ------|-----------------|---------|------------------|---------
 
 ## Side Bias Article Links
+[November 2019](http://nsdupdate.com/2019/a-statistical-analysis-of-side-bias-on-the-2019-november-december-lincoln-douglas-debate-topic-by-sachin-shah/)
+
 [October 2019](http://nsdupdate.com/2019/a-statistical-analysis-of-side-bias-on-the-2019-september-october-lincoln-douglas-debate-topic-by-sachin-shah/)
 
 [February 2019](http://nsdupdate.com/2019/a-statistical-analysis-of-side-bias-on-the-2019-january-february-lincoln-douglas-debate-topic/)
